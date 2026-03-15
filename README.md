@@ -11,30 +11,50 @@
   </p>
   <h2>Problema de Negócio</h2>
   <ul>
-    <li>Média de idade da frota elevada</li>
-    <li>Alta concentração de veículos acima dos 100 mil km</li>
-    <li>Desequilíbrio na distribuição da frotas entre os campus</li>
+    <li>Desconhecimento do histórico de consumo de ração</li>
+    <li>Alto  índice de mortalidade</li>
+    <li>Doenças respiratórias prejudicando a produção</li>
+    <li>Desconhecimento da preferencia do cliente</li>
+    <li>Desenvolvimento irregular das aves</li>
+    <li>Rentabilidade</li>
   </ul>
   <h2>KPIs Desenvolvidos</h2>
+  <h3>Vendas</h3>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Total de Faturamento</li>
+    <li>Faturamento Por Ano, Trimestre e Mês</li>
+    <li>Faturamento Por Lote</li>
+    <li>Quantidade Vendida Por Lote</li>
+    <li>Vendas por Cliente</li>
+    <li>Vendas Por Tipo</li>
+    <li>Total de Clientes</li>
+  </ul>
+  <h3>Custos</h3>
+  <ul>
+    <li>Custos Totais Por Lote</li>
+    <li>Custos de Ração Por Lote</li>
+    <li>Custos de Medicamento Por Lote</li>
+    <li>Percentual de Custos Por Tipo de Ração</li>
+  </ul>
+  <h3>Criação</h3>
+  <ul>
+    <li>Índice de Mortalidade da Produção</li>
+    <li>Histórico de Consumo Por Lote</li>
+    <li>Consumo Médio de Cada Lote Por Tipo de Ração</li>
+    <li>Peso Médio Por Lote</li>
+    <li>Causas de Morte</li>
+    <li>Mortes Por Lote</li>
   </ul>
   <h2>Insights Extraídos</h2>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Alto índice de mortalidade, ficando acima dos 10%</li>
+    <li>Peso médio de 2Kg, abaixo do ideal</li>
+    <li>Faturamento da produção de um lote em 2026, já atingiu 82% de toda a produção de 2025</li>
+    <li>53% dos custos de consumo, são com rações para crescimento</li>
   </ul>
   <h2>Ferramentas Utilizadas</h2>
   <ul>
     <li>Power BI - Tratamento, modelagem e apresentação dos dados</li>
     <li>Excel - Fonte de dados</li>
-  </ul>
-  
+  </ul> 
 </div>
